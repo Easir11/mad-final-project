@@ -1,0 +1,30 @@
+[debug] [2025-04-16T20:06:39.087Z] ----------------------------------------------------------------------
+[debug] [2025-04-16T20:06:39.094Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mahmu\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init firestore
+[debug] [2025-04-16T20:06:39.095Z] CLI Version:   14.1.0
+[debug] [2025-04-16T20:06:39.095Z] Platform:      win32
+[debug] [2025-04-16T20:06:39.095Z] Node Version:  v22.14.0
+[debug] [2025-04-16T20:06:39.095Z] Time:          Thu Apr 17 2025 02:06:39 GMT+0600 (Bangladesh Standard Time)
+[debug] [2025-04-16T20:06:39.095Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-04-16T20:06:39.099Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2025-04-16T20:06:39.286Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-04-16T20:06:39.290Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-04-16T20:06:39.290Z] > authorizing via signed-in user (ilynk.mail@gmail.com)
+[debug] [2025-04-16T20:06:39.291Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\mahmu\flutter_social_media
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2025-04-16T20:06:39.856Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2025-04-16T20:06:39.856Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
